@@ -1,0 +1,9 @@
+{
+  "name": "wp-ai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "axios": "^1.6.0"
+  }
+}
